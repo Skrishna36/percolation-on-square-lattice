@@ -1,2 +1,2 @@
 # percolation-on-square-lattice
-this is just the test I run for my codes just to check if they are correct .
+thee are the test codes just to check if the code processes are correct.
